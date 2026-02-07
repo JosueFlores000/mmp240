@@ -1,0 +1,16 @@
+
+body{
+	margin:20px 15% 20px 15%;
+	background-color: #cef5ec;
+}
+
+h1{
+	text-align: center;
+}
+
+.centerimage{
+	display: block;
+	margin: 0px 0px 3px 0px;
+	height: auto;
+	max-width: 100%;
+}

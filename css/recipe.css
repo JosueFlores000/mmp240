@@ -1,0 +1,14 @@
+.left{
+	float: left;
+}
+.right{
+	float: right;
+	border: 8px solid #c93b30;
+}
+body{
+	margin: 20px 15% 20px 15%;
+	background-color: #d97330;
+}
+h3{
+	color: #ffc940;
+}
